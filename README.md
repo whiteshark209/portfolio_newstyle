@@ -5,8 +5,6 @@
 ## Demo
 ![image](https://github.com/user-attachments/assets/f90dcc29-a34b-4ac9-9828-be8431b39047)
 
-You can also check out the live demo of the portfolio website [here](https://alpaycelik.dev).
-
 ## Features
 
 - SEO optimized
